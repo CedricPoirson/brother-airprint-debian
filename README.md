@@ -385,3 +385,7 @@ If this works on another Brother model, please open an issue or pull request wit
 - whether the A4 `ReadyPaperSizes` fix was required.
 
 That will help turn this into a useful compatibility reference for legacy Brother printers.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
